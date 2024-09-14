@@ -58,3 +58,4 @@ jobs:
           scan-ref: '.'
           ignore-unfixed: true
           format: 'sarif'
+          
